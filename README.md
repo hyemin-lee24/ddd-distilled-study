@@ -1,2 +1,24 @@
-# ddd-distilled-study
-Personal study and implementation of Domain-Driven Design core ideas.
+# 📘 Domain-Driven Design Distilled (반 버논) 정리
+
+이 리포지토리는 《도메인 주도 설계 핵심(Domain-Driven Design Distilled)》 책을 기반으로 학습한 내용을 정리하고,  
+실제 코드에 적용해본 실습 예제를 포함하고 있습니다.
+
+---
+
+## 📚 목차
+
+- [01. 나에게 도메인 주도 설계는]()
+- [02. 바운디드 컨텍스트 및 보편언어와 전략적 설계]()
+- [03. 서브도메인과 전략적 설계]()
+- [04. 컨텍스트 매핑과 전략적 설계]()
+- [05. 애그리게잇과 전술적 설계]()
+- [06. 도메인 이벤트와 전술적 설계]()
+- [07. 가속화와 관리 도구]()
+
+---
+
+## 🧠 목적
+
+- DDD 핵심 개념을 정확히 이해하고 실제 코드에 어떻게 반영할 수 있는지 학습  
+
+---
