@@ -19,6 +19,7 @@
 - [05. 애그리게잇과 전술적 설계]
    - [Part 1](chapters/05-애그리게잇과전술적설계_PART1.md)
    - [Part 2](chapters/05-애그리게잇과전술적설계_PART2.md)
+   - [Part 3](chapters/05-애그리게잇과전술적설계_PART3.md)
 
 ---
 
